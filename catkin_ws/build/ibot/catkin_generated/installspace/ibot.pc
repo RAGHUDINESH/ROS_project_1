@@ -1,0 +1,8 @@
+prefix=/home/raghu/ROS_project_1/catkin_ws/install
+
+Name: ibot
+Description: Description of ibot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
